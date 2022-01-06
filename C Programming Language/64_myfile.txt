@@ -1,0 +1,4 @@
+This content is produced by 64_file-handling.c
+
+The content is appended in file.
+
